@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include snp_ws *.css
+recursive-include snp_ws *.csv
+recursive-include snp_ws *.html
+recursive-include snp_ws *.ico
+recursive-include snp_ws *.js
+recursive-include snp_ws *.json
+recursive-include snp_ws *.md
+recursive-include snp_ws *.png
+recursive-include snp_ws *.py
+recursive-include snp_ws *.svg
+recursive-include snp_ws *.txt
+recursive-exclude snp_ws *.pyc
