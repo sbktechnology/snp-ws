@@ -12,6 +12,12 @@ web_include_css = ["assets/snp_ws/css/frappe-io-web.css", "assets/frappe/css/hlj
 web_include_js = "/assets/frappe/js/lib/highlight.pack.js"
 
 
+fixtures = [
+	"Website Settings",
+	"Website Script",
+	"Contact Us Settings",
+	"Web Form"
+]
 
 
 # Includes in <head>
