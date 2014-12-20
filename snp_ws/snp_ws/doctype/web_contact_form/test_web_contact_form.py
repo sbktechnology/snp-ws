@@ -4,7 +4,7 @@
 import frappe
 import unittest
 
-test_records = frappe.get_test_records('Contact')
+test_records = frappe.get_test_records('Web Contact Form')
 
-class TestContact(unittest.TestCase):
+class TestWebContactForm(unittest.TestCase):
 	pass

@@ -15,8 +15,7 @@ web_include_js = "/assets/frappe/js/lib/highlight.pack.js"
 fixtures = [
 	"Website Settings",
 	"Website Script",
-	"Contact Us Settings",
-	"Web Form"
+	"Contact Us Settings"
 ]
 
 
