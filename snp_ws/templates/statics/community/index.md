@@ -1,8 +1,8 @@
-<p><em>S&amp;P Marketing proudly supports science education in its Minnesota community through Young Scientist Roundtable.</em>&nbsp;</p>
+<p><em>Spectrum Fruits proudly supports science education in its Minnesota community through Young Scientist Roundtable.</em>&nbsp;</p>
 <p>&nbsp;</p>
 <p><strong>Young Scientist Roundtable</strong></p>
 <p>&nbsp;</p>
-<p>Dr. Vinod Padhye, vice president and co-owner of S&amp;P Marketing, founded Young Scientist Roundtable in 1992 as a parent volunteer. The goal is simple:&nbsp; to increase the love of science at an early age. YSR works toward that goal by introducing k-12 students to scientists involved in research and commercial work. These experts in fields from astronomy to math, engineering to medicine share their discoveries and their enthusiasm about real-world problems addressed by science.</p>
+<p>Dr. Vinod Padhye, vice president and co-owner of Spectrum Fruits, founded Young Scientist Roundtable in 1992 as a parent volunteer. The goal is simple:&nbsp; to increase the love of science at an early age. YSR works toward that goal by introducing k-12 students to scientists involved in research and commercial work. These experts in fields from astronomy to math, engineering to medicine share their discoveries and their enthusiasm about real-world problems addressed by science.</p>
 <p>&nbsp;</p>
 <p>Young Scientist Roundtable has operated continuously since its inception and serves more than a dozen school districts. Presentations remain free to any student who wants to attend and are organized by an all-volunteer staff that solicits scientists to donate their time in order to increase scientific literacy.&nbsp;</p>
 <p>&nbsp;</p>
