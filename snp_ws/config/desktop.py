@@ -6,6 +6,6 @@ def get_data():
 			"color": "#AFD57D",
 			"icon": "icon-globe",
 			"type": "module",
-			"label": _("S&P Marketing, Inc.")
+			"label": _("Spectrum Fruits")
 		}
 	}
