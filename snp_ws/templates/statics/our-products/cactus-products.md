@@ -4,8 +4,6 @@
 
 <tr>
 <td valign="top">
-<p><img style="display: block; margin-left: auto; margin-right: auto;" src="/assets/snp_ws/images/One-Stop.PNG" alt="One-Stop" width="701" height="87" /></p>
-<p>&nbsp;</p>
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
