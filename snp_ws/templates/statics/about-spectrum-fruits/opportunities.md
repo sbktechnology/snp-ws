@@ -1,1 +1,2 @@
-<p align="justify">At Spectrum Fruits, we are always looking for exceptional people to join the team. As needs emerge, we hire professional services to recruit the talents needed for specific new projects. If you are creative, hard-working and ready to work in an exciting and challenging workplace, please send your resume.</p>
+<p align="justify">At Spectrum Fruits, we are always looking for exceptional people to join the team. As needs emerge, we hire professional services to recruit the talents needed for specific new projects. If you are creative, hard-working and ready to work in an exciting and challenging workplace, please send your resume at 
+<a href="mailto:vinod@spectrumfruits.com">vinod@spectrumfruits.com</a></p>
